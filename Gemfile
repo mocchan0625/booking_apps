@@ -8,6 +8,9 @@ gem 'sqlite3'
 gem 'twitter-bootstrap-rails'
 gem 'less-rails'
 gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'bootstrap_form'
+gem "font-awesome-rails"
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
